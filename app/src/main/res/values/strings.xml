@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KernelSU iOS26</string>
+    
+    <!-- Tab Bar Labels -->
+    <string name="tab_home">Home</string>
+    <string name="tab_modules">Modules</string>
+    <string name="tab_root">Root</string>
+    <string name="tab_settings">Settings</string>
+    
+    <!-- Navigation -->
+    <string name="nav_title_home">KernelSU</string>
+    <string name="nav_title_modules">Modules</string>
+    <string name="nav_title_root">Root Access</string>
+    <string name="nav_title_settings">Settings</string>
+    
+    <!-- Status -->
+    <string name="status_working">Working</string>
+    <string name="status_error">Error</string>
+    <string name="status_offline">Offline</string>
+    
+    <!-- Actions -->
+    <string name="action_grant">Grant</string>
+    <string name="action_deny">Deny</string>
+    <string name="action_revoke">Revoke</string>
+    <string name="action_install">Install</string>
+    <string name="action_uninstall">Uninstall</string>
+    <string name="action_enable">Enable</string>
+    <string name="action_disable">Disable</string>
+    
+    <!-- Messages -->
+    <string name="msg_root_granted">Root access granted</string>
+    <string name="msg_root_denied">Root access denied</string>
+    <string name="msg_module_installed">Module installed successfully</string>
+    <string name="msg_module_removed">Module removed</string>
+    
+    <!-- Info -->
+    <string name="info_version">Version</string>
+    <string name="info_kernel">Kernel</string>
+    <string name="info_root_apps">Root Apps</string>
+    <string name="info_modules_active">Modules Active</string>
+    
+    <!-- Description -->
+    <string name="desc_liquid_glass">iOS 26 Liquid Glass Design</string>
+    <string name="desc_kernelsu">Kernel-based root solution</string>
+</resources>
