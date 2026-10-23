@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'me.weishu.kernelsu.ios26'
-    compileSdk 37
+    compileSdk 34
 
     defaultConfig {
         applicationId "me.weishu.kernelsu.ios26"
         minSdk 31
-        targetSdk 37
+        targetSdk 34
         versionCode 32700
         versionName "v3.3.0-iOS26"
 
